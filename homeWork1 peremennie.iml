@@ -1,0 +1,73 @@
+public class Main {
+    public static void main(String[]args) {
+
+
+Задача №1.
+byte potato = 35;
+short fridge =175;
+int car = 1500;
+long house = 100L;
+float barm =1.3;
+double loaf = 2.5;
+char money = 83;
+boolean weatherIsColder > 10;
+
+Задача №2.
+double boxer1 = 78.2;
+double boxer2 = 82.7;
+double generar1 = boxer1 + boxer2;
+double general2 = boxer2 - boxer1;
+system.out.println(general1);
+system.out.println(general2);
+
+Задача №3.
+byte bananas = 5;
+byte gram1 = 80;
+short milk = 200;
+byte gram2 = 105;
+byte iceCream = 2;
+byte gram3 = 100;
+byte egg = 4;
+byte gram4 = 70;
+short bananasAll = bananas * gramm1;
+short milkAll = milk * gram2;
+short iceCream = iceCream * gram3;
+short egg = egg * gram4;
+short total = gram1 + gram2 + gram3 + gram4;
+short kilogram = total*1000;
+System.out.println("Вес всего в граммах " + total +" грамм");
+System.out.println("Вес в килограммах " + kilogram +" кг");
+
+Задача №4.
+byte norma = 7;
+short weightLoss1 = 250;
+short weightLoss1 = 500;
+short gram = 7*1000
+short result1 = gram/250;
+short total = result1 + result2;
+short average = total/2;
+System.out.println("худеем1 " + result1 +" дн");
+System.out.println("худеем2 " + куыгде2 +" дн");
+System.out.println("среднее " + average + " дн");
+
+Задача №5.
+int masha = 67760;
+int denis = 83690;
+int kris = 76230;
+int mashaUvel = masha + 10%;
+int denisUvel = denis + 10%;
+int krisUvel = kris + 10%;
+int mashaGod = masha*12
+int denisGod = denis*12
+int krisGot = kris*12
+System.out.println("маша теперь получает mashaUvel " + mashaUvel + " руб");
+System.out.println("денис теперь получает denisUvel " + denisUvel + " руб");
+System.out.println("кристина теперь получает krisUvel " + krisUvel + " руб");
+
+
+
+
+
+
+
+
